@@ -5,6 +5,6 @@
 ### Ademas de todo lo comentado, le pedimos al chat que nos diera diferentes funcionalidades para el LED para provar. Nos dio distintas maneras de usar el LED, como el waving (que hace que el led cambie entre colores apagandose enta mente y encendiendose de la misma manera) o el arcoiris (que cambiaba etre varios colores de manera intermitente).
 ### De la parte del osciloscopio, decidimos sacar algunas fotografias para ilustrar los escritos mejor.
 ### Imagen del osciloscopio con delay de 500ms: 
-![Imagen1](Fotos_Pràctica_1_PD/con500delay.jpg)
+![Imagen1](Imagenes_Prcacticas/con500delay.jpg)
 ### Imagen del osciloscopio sin delay: 
-![Imagen2](Fotos_Pràctica_1_PD/sindelay.jpg)
+![Imagen2](Imagenes_Practicas/sindelay.jpg)
