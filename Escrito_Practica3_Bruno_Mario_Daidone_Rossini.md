@@ -26,9 +26,6 @@ Esta práctica marca el inicio del trabajo con conectividad inalámbrica, permit
 - **Resultado:**  
   Logramos una conexión exitosa con el navegador, que mostró correctamente el mensaje generado desde la ESP32-S3.
 
-- **Aplicaciones prácticas:**  
-  Este tipo de comunicación es útil para crear interfaces web que controlen dispositivos o muestren datos de sensores de forma remota.
-
  **Imagen demostrativa de la conexión por WiFi:**  
 ![Conexión WiFi - ESP32-S3](Imagenes_Practicas/Wifi.jpg)
 
@@ -41,9 +38,6 @@ Esta práctica marca el inicio del trabajo con conectividad inalámbrica, permit
 
 - **Funcionamiento:**  
   Al establecer la conexión, la ESP32-S3 enviaba un mensaje al terminal del teléfono, confirmando que la comunicación era exitosa.
-
-- **Ventajas:**  
-  BLE permite conexiones de baja energía ideales para aplicaciones móviles, wearables o sensores portátiles.
 
  **Imagen del terminal mostrando la conexión BLE:**  
 ![Terminal Serial Bluetooth](Imagenes_Practicas/Bluetooth.jpg)
