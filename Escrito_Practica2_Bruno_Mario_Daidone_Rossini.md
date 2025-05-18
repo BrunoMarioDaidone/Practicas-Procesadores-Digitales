@@ -20,8 +20,8 @@ La práctica se dividió en dos actividades principales, cada una enfocada en un
 En esta actividad, realizamos un montaje sencillo en el que un pulsador estaba conectado a un pin GPIO específico de la placa. El objetivo era configurar una interrupción que se activara cuando el pulsador fuera presionado.
 
 - **Montaje:**  
-  El pulsador se conectó al pin designado de la placa ESP32-S3, junto con una resistencia de pull-up para evitar fluctuaciones en la señal.
-
+  El pulsador se conectó al pin designado de la placa ESP32-S3.
+  
 - **Funcionamiento:**  
   La interrupción se activaba mientras el pulsador permaneciera presionado, y el programa podía detectar la duración de la pulsación para ejecutar acciones específicas.
 
