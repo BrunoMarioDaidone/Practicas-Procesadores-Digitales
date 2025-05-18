@@ -29,7 +29,7 @@ Esta práctica marca el inicio del trabajo con conectividad inalámbrica, permit
 - **Aplicaciones prácticas:**  
   Este tipo de comunicación es útil para crear interfaces web que controlen dispositivos o muestren datos de sensores de forma remota.
 
-📷 **Imagen demostrativa de la conexión por WiFi:**  
+ **Imagen demostrativa de la conexión por WiFi:**  
 ![Conexión WiFi - ESP32-S3](Imagenes_Practicas/Wifi.jpg)
 
 ---
@@ -45,7 +45,7 @@ Esta práctica marca el inicio del trabajo con conectividad inalámbrica, permit
 - **Ventajas:**  
   BLE permite conexiones de baja energía ideales para aplicaciones móviles, wearables o sensores portátiles.
 
-📱 **Imagen del terminal mostrando la conexión BLE:**  
+ **Imagen del terminal mostrando la conexión BLE:**  
 ![Terminal Serial Bluetooth](Imagenes_Practicas/Bluetooth.jpg)
 
 ---
@@ -53,9 +53,3 @@ Esta práctica marca el inicio del trabajo con conectividad inalámbrica, permit
 ## Conclusiones
 
 La tercera práctica fue clave para introducirnos en la conectividad inalámbrica de la ESP32-S3. Aprendimos a utilizar tanto la interfaz WiFi como BLE para intercambiar información entre la placa y dispositivos externos.
-
-Estos conocimientos abren la puerta a una amplia gama de aplicaciones en el Internet de las Cosas (IoT), como la monitorización remota, control desde el móvil o la creación de sistemas autónomos conectados.
-
----
-
-¿Te gustaría que incluyera también fragmentos del código usado en WiFi y BLE con comentarios explicativos? Puedo ayudarte con eso también.
