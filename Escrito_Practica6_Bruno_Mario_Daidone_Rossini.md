@@ -26,10 +26,9 @@ Durante esta práctica se realizaron diversos ejercicios prácticos para aplicar
 - **Descripción:** Se conectó un lector RFID RC522 mediante SPI. Al acercar una tarjeta RFID, el sistema la detecta y muestra su UID por el monitor serie.
 - **Tareas solicitadas:**
   1. Observar y registrar la salida por el puerto serie al acercar una tarjeta.
-  2. Explicar el proceso de detección y lectura del UID.
 
 
-
+---
 ## Conclusiones
 
 La práctica permitió profundizar en el uso del protocolo SPI para la comunicación entre el microcontrolador y distintos periféricos. Se evidenció que:
@@ -45,10 +44,12 @@ Esta experiencia sienta las bases para proyectos más complejos que involucren m
 ## Anexos
 
 - **Fotos del montaje:**
-   ![RFID](Imagenes_Practicas/RFID_Montaje.jpeg)
+  ![RFID](Imagenes_Practicas/RFID_Montaje.jpeg)
+  
   ![SD](Imagenes_Practicas/SD_Montaje.jpeg)
   
 - **Salidas de depuración:** Capturas de pantalla del monitor serie.
   ![RFID_Func](Imagenes_Practicas/RFID_Funcionamiento.jpeg)
+  
   ![SD_Func](Imagenes_Practicas/SD_Funcionamiento.jpeg) 
 ---
