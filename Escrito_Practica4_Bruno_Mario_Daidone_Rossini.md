@@ -2,7 +2,7 @@
 
 ## Introducción
 
-En este informe se describe el trabajo realizado durante la cuarta práctica del laboratorio, cuyo objetivo fue comprender el funcionamiento de un sistema operativo en tiempo real (RTOS) utilizando el microcontrolador ESP32 y el entorno de desarrollo Arduino. Esta práctica nos permitió introducirnos en el uso de **FreeRTOS**, un sistema que facilita la ejecución concurrente de múltiples tareas en sistemas embebidos, optimizando el uso de los recursos del procesador.
+En este informe se describe el trabajo realizado durante la cuarta práctica del laboratorio, cuyo objetivo fue comprender el funcionamiento de un sistema operativo en tiempo real (RTOS) utilizando el microcontrolador ESP32 y el PlatformIO. Esta práctica nos permitió introducirnos en el uso de **FreeRTOS**, un sistema que facilita la ejecución concurrente de múltiples tareas en sistemas embebidos, optimizando el uso de los recursos del procesador.
 
 ---
 
