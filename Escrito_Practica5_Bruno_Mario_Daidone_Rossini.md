@@ -2,7 +2,7 @@
 
 ## Introducción
 
-La práctica tuvo como objetivo principal comprender el funcionamiento del bus **I2C**, un protocolo de comunicación ampliamente utilizado en sistemas embebidos. A través del uso del microcontrolador **ESP32**, se integraron y controlaron dispositivos periféricos como una **pantalla OLED** y un **sensor biométrico MAX30102**, lo cual permitió aplicar los conceptos teóricos del protocolo en una implementación práctica y funcional.
+La práctica tuvo como objetivo principal comprender el funcionamiento del bus **I2C**, un protocolo de comunicación ampliamente utilizado en sistemas embebidos. A través del uso del microcontrolador **ESP32-S3**, se integraron y controlaron dispositivos periféricos como una **pantalla OLED** y un **sensor biométrico MAX30102**, lo cual permitió aplicar los conceptos teóricos del protocolo en una implementación práctica y funcional.
 
 ---
 
@@ -60,12 +60,12 @@ Estos ejercicios demostraron la versatilidad del bus I2C para conectar múltiple
 ---
 
 ## Anexos
-
-- **Fotos del montaje:** Disponibles en el repositorio compartido por el profesor o tomadas durante la práctica.
-- **Capturas del monitor serial:** Se adjuntan las salidas de depuración que muestran las lecturas del sensor y las direcciones detectadas.
-- **Referencias consultadas:**
-  - Librerías `Wire.h`, `Adafruit_GFX`, y `Adafruit_SSD1306`.
-  - Documentación del sensor MAX30102.
-  - Tutoriales de Random Nerd Tutorials y Adafruit para implementación de I2C con ESP32.
-
+- **Foto del funcionamiento del dispaly**
+- ![Display](Imagenes_Practicas/DisplayFuncionamiento.jpg)
+-  
+- **Foto del montaje**
+- ![Montaje](Imagenes_Practicas/SensorHyT_Montaje.jpg)
+- 
+- **Foto del funcionamiento**
+- ![Funcionamiento](Imagenes_Practicas/SensorHyT_Funcionamiento.jpg)
 ---
