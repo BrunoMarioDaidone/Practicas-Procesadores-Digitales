@@ -61,11 +61,11 @@ Estos ejercicios demostraron la versatilidad del bus I2C para conectar múltiple
 
 ## Anexos
 - **Foto del funcionamiento del dispaly**
-- ![Display](Imagenes_Practicas/DisplayFuncionamiento.jpeg.jpg)
+- ![Display](Imagenes_Practicas/DisplayFuncionamiento.jpeg)
 -  
 - **Foto del montaje**
-- ![Montaje](Imagenes_Practicas/SensorHyT_Montaje.jpeg.jpg)
+- ![Montaje](Imagenes_Practicas/SensorHyT_Montaje.jpeg)
 - 
 - **Foto del funcionamiento**
-- ![Funcionamiento](Imagenes_Practicas/SensorHyT_Funcionamiento.jpeg.jpg)
+- ![Funcionamiento](Imagenes_Practicas/SensorHyT_Funcionamiento.jpeg)
 ---
